@@ -126,7 +126,7 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 
 * **Vivek Fatwani**
     * 🌐 GitHub: [@vivekfatwani](https://github.com/vivekfatwani)
-    * 🔗 LinkedIn:[@vivekfatwani](https://www.linkedin.com/in/vivek-fatwani/)]
+    * 🔗 LinkedIn:[@vivekfatwani](https://www.linkedin.com/in/vivek-fatwani/)
     
 
   
